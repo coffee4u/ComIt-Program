@@ -1,5 +1,8 @@
 # ComIt-Program
-Bin Chen's Exercise:
+Bin Chen's Exercise
+
+Environment:
+MacOS with Visual Studio 2019
 
 MiniProject 1:
 Caculator
