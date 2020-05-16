@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{D1D85B54-6D91-4922-88B5-BA7B30FD5417}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MiniProject2/Program.cs">
+    <Files>
+      <File FileName="MiniProject2/Program.cs" Line="13" Column="38" />
+      <File FileName="MiniProject2/Bicycle.cs" Line="4" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MiniProject2" expanded="True">
+            <Node name="MiniProject2" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MiniProject2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

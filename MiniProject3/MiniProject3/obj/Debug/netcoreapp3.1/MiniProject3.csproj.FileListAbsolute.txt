@@ -1,0 +1,12 @@
+/Users/binchen/Projects/MiniProject3/MiniProject3/bin/Debug/netcoreapp3.1/MiniProject3.deps.json
+/Users/binchen/Projects/MiniProject3/MiniProject3/bin/Debug/netcoreapp3.1/MiniProject3.runtimeconfig.json
+/Users/binchen/Projects/MiniProject3/MiniProject3/bin/Debug/netcoreapp3.1/MiniProject3.runtimeconfig.dev.json
+/Users/binchen/Projects/MiniProject3/MiniProject3/bin/Debug/netcoreapp3.1/MiniProject3.dll
+/Users/binchen/Projects/MiniProject3/MiniProject3/bin/Debug/netcoreapp3.1/MiniProject3.pdb
+/Users/binchen/Projects/MiniProject3/MiniProject3/obj/Debug/netcoreapp3.1/MiniProject3.csprojAssemblyReference.cache
+/Users/binchen/Projects/MiniProject3/MiniProject3/obj/Debug/netcoreapp3.1/MiniProject3.csproj.CoreCompileInputs.cache
+/Users/binchen/Projects/MiniProject3/MiniProject3/obj/Debug/netcoreapp3.1/MiniProject3.AssemblyInfoInputs.cache
+/Users/binchen/Projects/MiniProject3/MiniProject3/obj/Debug/netcoreapp3.1/MiniProject3.AssemblyInfo.cs
+/Users/binchen/Projects/MiniProject3/MiniProject3/obj/Debug/netcoreapp3.1/MiniProject3.dll
+/Users/binchen/Projects/MiniProject3/MiniProject3/obj/Debug/netcoreapp3.1/MiniProject3.pdb
+/Users/binchen/Projects/MiniProject3/MiniProject3/obj/Debug/netcoreapp3.1/MiniProject3.genruntimeconfig.cache
